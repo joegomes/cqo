@@ -1,0 +1,2 @@
+# cqo
+Classical Quantum Optimization
