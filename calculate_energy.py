@@ -4,7 +4,6 @@ import time
 import json
 import numpy as np
 import netket as nk
-import matplotlib.pyplot as plt
 
 
 def load(path):
