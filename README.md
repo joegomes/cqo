@@ -9,3 +9,5 @@ installation:
 
 run examples:
 - python optimize.py rudy_8_12_1337.sparse
+- python calculate_energy.py rudy_8_12_1337.sparse
+- python calculate_timing.py rudy_8_12_1337.sparse
