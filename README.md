@@ -1,6 +1,8 @@
 # cqo
 Classical Quantum Optimization
 
+See: https://arxiv.org/abs/1910.10675
+
 installation:
 - conda create -n cqo python=3.7
 - source activate cqo
