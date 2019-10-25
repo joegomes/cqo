@@ -6,7 +6,7 @@ See: https://arxiv.org/abs/1910.10675
 installation:
 - conda create -n cqo python=3.7
 - conda activate cqo
-- conda install -y cmake mpich2 numpy
+- conda install -y cmake mpich numpy scipy
 - pip install netket
 
 run examples:
